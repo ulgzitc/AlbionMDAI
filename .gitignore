@@ -1,1 +1,3 @@
 AlbionMDAI.code-workspace
+venv
+.env
